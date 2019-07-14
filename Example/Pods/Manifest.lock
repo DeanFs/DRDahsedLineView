@@ -1,0 +1,16 @@
+PODS:
+  - DRDahsedLineView (0.1.0)
+
+DEPENDENCIES:
+  - DRDahsedLineView (from `../`)
+
+EXTERNAL SOURCES:
+  DRDahsedLineView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DRDahsedLineView: 6ae4c4f992af995cf3e227a443bcc0145c04d8cc
+
+PODFILE CHECKSUM: 72afb342aaa61b608666546570f0977d02d7a12e
+
+COCOAPODS: 1.7.0.rc.1

@@ -1,0 +1,6 @@
+framework module DRDahsedLineView {
+  umbrella header "DRDahsedLineView-umbrella.h"
+
+  export *
+  module * { export * }
+}

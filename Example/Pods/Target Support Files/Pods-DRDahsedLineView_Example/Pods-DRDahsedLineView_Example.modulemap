@@ -1,0 +1,6 @@
+framework module Pods_DRDahsedLineView_Example {
+  umbrella header "Pods-DRDahsedLineView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
