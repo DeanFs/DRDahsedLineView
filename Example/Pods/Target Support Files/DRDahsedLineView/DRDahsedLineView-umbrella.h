@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "DRDashedLineView.h"
 
 FOUNDATION_EXPORT double DRDahsedLineViewVersionNumber;
 FOUNDATION_EXPORT const unsigned char DRDahsedLineViewVersionString[];

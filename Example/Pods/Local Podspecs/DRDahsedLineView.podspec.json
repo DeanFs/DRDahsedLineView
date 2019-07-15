@@ -1,9 +1,9 @@
 {
   "name": "DRDahsedLineView",
   "version": "0.1.0",
-  "summary": "A short description of DRDahsedLineView.",
+  "summary": "虚线视图",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Dean_F/DRDahsedLineView",
+  "homepage": "https://github.com/DeanFs/DRDahsedLineView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Dean_F": "stone.feng1990@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Dean_F/DRDahsedLineView.git",
+    "git": "https://github.com/DeanFs/DRDahsedLineView.git",
     "tag": "0.1.0"
   },
   "platforms": {
